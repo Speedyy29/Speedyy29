@@ -7,7 +7,7 @@
 - 🔭 I'm currently working on **Portfolio Website**
 - 🌱 I'm currently learning **React Native, MongoDB, Python, Machine Learning**
 - 👯 I'm looking to collaborate on **Full Stack Web Development**
-- 📂 All of my projects are available at [[[https://github.com/yourusername](https://github.com/Speedyy29/)
+- 📂 All of my projects are available at (https://github.com/Speedyy29/)
 - 💬 Ask me about **Frontend Web Development, Machine Learning**
 
 ## Connect with me:
