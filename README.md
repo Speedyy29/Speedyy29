@@ -40,18 +40,5 @@
 <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
 </p>
 
-## GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-## Most Used Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
-
-## Contribution Graph:
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=yourusername&theme=dracula)
-
-## GitHub Streak:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark" alt="yourusername" /></p>
-
----
-
-⭐️ From [yourusername](https://github.com/yourusername)
+⭐️ From [Speedyy29](https://github.com/Speedyy29)
