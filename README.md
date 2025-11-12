@@ -89,15 +89,31 @@
 
 ### 📊 GitHub Stats (Sept → Nov)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Speedyy29&show_icons=true&theme=react&hide_border=true&include_all_commits=true&count_private=true&custom_title=GitHub+Stats+(Sept–Nov+2025)" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Speedyy29&layout=compact&theme=react&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Speedyy29&show_icons=true&theme=react&hide_border=true&custom_title=GitHub+Stats+(Sept–Nov+2025)" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Speedyy29&layout=compact&theme=react&hide_border=true" height="165" />
 </p>
 
 ---
 
-### 📈 Contribution Activity
+### 🕓 Contribution Activity (Sept → Nov)
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Speedyy29&theme=react-dark&area=true&hide_border=true&custom_title=Contribution+Graph+(Sept–Nov+2025)" />
+</p>
+
+---
+
+### 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Speedyy29&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165" />
+</p>
+
+---
+
+### 🌟 Profile Insights
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Speedyy29&label=Profile+Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Speedyy29?label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/Speedyy29?affiliations=OWNER%2CCOLLABORATOR&label=Stars" alt="Stars" />
 </p>
 
 ---
